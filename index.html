@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ｒａｂｂｉｔｗａｖｅ９８</title>
+        <link rel="stylesheet" href="style.css">
+    <meta name="description" content="this is a digital garden.">
+    <link rel="icon" href="https://rabbitwave98.neocities.org/pink-mew.gif" type="image/x-icon"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8"> 
+    <!--woops-->
+  </head>
+  <style>  
+    
+  html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow-y: hidden;
+}
+
+  
+  #container1 {
+    position: absolute;
+    display: block;
+    top: 0px !important;
+    left: 0px !important;
+    height: 60px !important;
+    width: 100% !important;
+    color: #DDDDDD;
+    background: #16161d;
+    padding: 0px !important;
+}
+
+#container2 {
+  top: -60px !important; 
+  left: -8px !important;
+  flex: 1; /* Takes remaining space */
+  box-sizing: border-box;
+  }
+  
+  #audio-player {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  margin: 0px auto;
+  max-width: 400px;
+}
+
+.controls {
+  display: inline-flex;
+  gap: 10px;
+  padding: 6px 12px;
+  border-radius: 50em;
+  background: #fefefe;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+}
+
+button {
+  background: none;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#track-title {
+  margin-top: 24px;
+  font-size: 14px;
+  display: inline-block;
+    margin-left: 20px;
+    padding-right: 20px;
+}
+
+.peek-top-hover-area
+ {
+    display: none !important;
+}
+  
+  </style>
+  
+  
+  <body>
+  <div id="container1">
+  
+  <div id="audio-player">
+  <div id="yt-player"></div>
+
+  <div class="controls">
+    <button id="prev">⏮</button>
+    <button id="play">▶</button>
+    <button id="next">⏭</button>
+  </div>
+
+  <div id="track-title"></div><a style="color: #DDDDDD;" href="https://rabbitwave98.neocities.org/" onclick="history.back(); return false;"> [ ← back ] </a> 
+</div><script src="https://www.youtube.com/iframe_api"></script><script src="player.js"></script></div><div id="container2">
+  <iframe src="https://rabbitwave98.notion.site/ebd//2f8a0c8365f581c9893bec203996d3e1" height="100%" width="100%" frameborder="0" allowfullscreen /></iframe>
+  </div>
+  
+
+  
+  
+
+  
+  </body>
+</html>
