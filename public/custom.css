@@ -1,0 +1,8 @@
+.darkmode, .readermode, .global-graph-icon {
+display: none !important;
+}
+.search {
+display: none !important;}
+
+.graph {
+display: none !important;}
