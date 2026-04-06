@@ -12,8 +12,7 @@
     "inlineHTML": false,
     "exportPath": "/Users/bunny/Offline/webdev/neo98/Untitled/docs",
     "filesToExport": [
-      "images",
-      "index.md"
+      "all"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -77,7 +76,7 @@
       "hideSettingsButton": false,
       "featurePlacement": {
         "selector": "#left-sidebar-content",
-        "type": "end"
+        "type": "start"
       },
       "showCustomIcons": false,
       "showDefaultFolderIcons": false,
@@ -179,13 +178,13 @@
       "unavailable": false,
       "alwaysEnabled": true,
       "hideSettingsButton": false,
-      "allowFoldingLists": true,
-      "allowFoldingHeadings": true,
+      "allowFoldingLists": false,
+      "allowFoldingHeadings": false,
       "documentWidth": "40em"
     },
     "rssOptions": {
       "featureId": "rss",
-      "enabled": false,
+      "enabled": true,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -216,7 +215,7 @@
     "faviconPath": "favico.ico",
     "siteName": "rabbitwave98",
     "iconEmojiStyle": "OpenMoji",
-    "exportRoot": "images",
+    "exportRoot": "",
     "includePluginCss": [
       "svelte-1xjllom",
       "svelte-1nad34y",
@@ -237,7 +236,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "online",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",
