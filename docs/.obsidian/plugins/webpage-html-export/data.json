@@ -10,15 +10,18 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "",
-    "filesToExport": [],
+    "exportPath": "/Users/bunny/Offline/webdev/neo98/Untitled/docs",
+    "filesToExport": [
+      "images",
+      "index.md"
+    ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
     "addMathjaxStyles": true,
     "addHeadTag": true,
     "backlinkOptions": {
       "featureId": "backlinks",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -87,7 +90,7 @@
     },
     "searchOptions": {
       "featureId": "search",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -107,7 +110,7 @@
         "selector": "#right-sidebar-content",
         "type": "end"
       },
-      "displayTitle": "Outline",
+      "displayTitle": "navi",
       "startCollapsed": false,
       "minCollapseDepth": 0
     },
@@ -125,7 +128,7 @@
     },
     "graphViewOptions": {
       "featureId": "graph-view",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -159,7 +162,7 @@
     },
     "customHeadOptions": {
       "featureId": "custom-head",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -182,7 +185,7 @@
     },
     "rssOptions": {
       "featureId": "rss",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -191,7 +194,7 @@
     },
     "linkPreviewOptions": {
       "featureId": "link-preview",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": true
@@ -211,11 +214,21 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "faviconPath": "favico.ico",
-    "siteName": "docs",
-    "iconEmojiStyle": "Native",
-    "exportRoot": "",
-    "includePluginCss": [],
-    "includeStyleCssIds": [],
+    "siteName": "rabbitwave98",
+    "iconEmojiStyle": "OpenMoji",
+    "exportRoot": "images",
+    "includePluginCss": [
+      "svelte-1xjllom",
+      "svelte-1nad34y",
+      "svelte-m7tqwz",
+      "obsidian-linter"
+    ],
+    "includeStyleCssIds": [
+      "svelte-1xjllom",
+      "svelte-1nad34y",
+      "svelte-m7tqwz",
+      "obsidian-linter"
+    ],
     "autoDisposeWebpages": true
   },
   "logLevel": "warning",
@@ -224,7 +237,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "online",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",

@@ -1,5 +1,5 @@
 this is a homepage?
 
-![[Pasted image 20260406151319.png]]
+![[mewmew.png]]
 
 Configure this
