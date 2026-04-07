@@ -28,7 +28,7 @@ Specificity: (0,1,0)
     background-color: var(--background-paper) !important;
     box-shadow: inset 0px 0px 3px 0px oklch(from #000 l c h / 50%) !important;
     z-index: 0;
-    border-style: double;
+    border-style: dashed;
     border-width: 5px;
     border-color: #ae72ff;
 }
@@ -77,4 +77,10 @@ Specificity: (0,1,0)
 
 #center-content .obsidian-document .markdown-preview-sizer {
     padding-bottom: 0px !important;
+}
+
+#file-explorer {
+    padding: 0;
+    border-radius: 20px;
+    border-style: dashed;
 }
