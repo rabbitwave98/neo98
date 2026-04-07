@@ -79,6 +79,10 @@ body #center-content>.obsidian-document>.markdown-preview-sizer {
     padding-bottom: 10vh;
 }
 
+#center-content .obsidian-document .markdown-preview-sizer {
+        padding-bottom: 10vh;
+}
+
 /* .markdown-preview-sizer {
     padding-bottom: 20vh;
 } */
