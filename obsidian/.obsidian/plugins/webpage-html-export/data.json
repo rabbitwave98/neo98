@@ -38,9 +38,9 @@
       "hideSettingsButton": false,
       "featurePlacement": {
         "selector": ".header .data-bar",
-        "type": "end"
+        "type": "start"
       },
-      "displayTitle": "",
+      "displayTitle": "displaytitle",
       "showInlineTags": true,
       "showFrontmatterTags": true
     },
@@ -52,7 +52,7 @@
       "hideSettingsButton": false,
       "featurePlacement": {
         "selector": ".header .data-bar",
-        "type": "start"
+        "type": "before"
       },
       "displayTitle": "Aliases"
     },
@@ -167,7 +167,7 @@
       "hideSettingsButton": false,
       "featurePlacement": {
         "selector": "head",
-        "type": "start"
+        "type": "before"
       },
       "sourcePath": "hb.html",
       "includePath": "site-lib/html/custom-head.html"
@@ -247,7 +247,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "exportPreset": "online",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "filePickerBlacklist": [
     "(^|\\/)node_modules\\/",
     "(^|\\/)dist\\/",
