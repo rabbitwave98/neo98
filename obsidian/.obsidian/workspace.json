@@ -39,14 +39,12 @@
             "id": "5cd434c6af543ec5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "css-editor-view",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "sitely.css"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "css-editor-logo",
+              "title": "sitely"
             }
           }
         ],
@@ -207,9 +205,9 @@
   },
   "active": "5cd434c6af543ec5",
   "lastOpenFiles": [
+    "index.md",
     "assets/sidebar-right.md",
     "assets/sidebar-left.md",
-    "index.md",
     "assets/images/sidebar.png",
     "assets/banners/moon.png",
     "assets/banners",
