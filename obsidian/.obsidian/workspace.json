@@ -53,16 +53,128 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/𝕥𝕙𝕚𝕤 𝕚𝕤 𝕨𝕙𝕖𝕣𝕖 𝕒 𝕥𝕚𝕥𝕝𝕖 𝕘𝕠𝕖𝕤.md",
+                "file": "notes/2026-01-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "𝕥𝕙𝕚𝕤 𝕚𝕤 𝕨𝕙𝕖𝕣𝕖 𝕒 𝕥𝕚𝕥𝕝𝕖 𝕘𝕠𝕖𝕤"
+              "title": "2026-01-30"
+            }
+          },
+          {
+            "id": "e1c091485356cbc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2026-02-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-01"
+            }
+          },
+          {
+            "id": "a4375e8fe301a0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2026-02-01-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-01-02"
+            }
+          },
+          {
+            "id": "1aeb203168a460b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2026-02-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-05"
+            }
+          },
+          {
+            "id": "9d578d932b48b51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2026-02-05-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-05-02"
+            }
+          },
+          {
+            "id": "5ca8c02e14f5e706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2026-02-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-20"
+            }
+          },
+          {
+            "id": "9792f05aef2eceaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2026-02-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-23"
+            }
+          },
+          {
+            "id": "1aecbb003d5552bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2026-02-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-25"
+            }
+          },
+          {
+            "id": "a4de8c2d66da3eba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/2026-02-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-27"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -217,27 +329,41 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c7ffeb0130c0f104",
+  "active": "a4de8c2d66da3eba",
   "lastOpenFiles": [
-    "notes/here's a daily page.md",
-    "notes/𝕥𝕙𝕚𝕤 𝕚𝕤 𝕨𝕙𝕖𝕣𝕖 𝕒 𝕥𝕚𝕥𝕝𝕖 𝕘𝕠𝕖𝕤.md",
+    "notes/2026-01-30-02.md",
+    "notes/2026-01-30.md",
+    "notes/2026-02-01.md",
+    "notes/2026-02-01-02.md",
+    "notes/2026-02-05.md",
+    "notes/2026-02-05-02.md",
+    "notes/2026-02-20.md",
+    "notes/2026-02-23.md",
+    "notes/2026-02-25.md",
+    "notes/2026-02-27.md",
+    "at/Pasted image 20260406180901.png",
+    "at/Pasted image 20260406180853.png",
+    "at/Pasted image 20260406180812.png",
+    "at/Pasted image 20260406180732.png",
+    "at/Pasted image 20260406180657.png",
+    "at/Pasted image 20260406180505.png",
+    "at/Pasted image 20260406180501.png",
+    "at/Pasted image 20260406180438.png",
+    "at/Pasted image 20260406180354.png",
+    "at/Pasted image 20260406180347.png",
+    "at",
     "assets/covers",
-    "assets/covers/funkystar.png",
     "homeboy.html",
     "index.md",
     "assets/sidebar-right.md",
     "assets/sidebar-left.md",
-    "assets/images/sidebar.png",
-    "assets/banners/moon.png",
     "assets/banners",
     "assets",
     "obsidian",
     "untitled folder",
     "bak-index.html",
-    "assets/images/mewmew.png",
     "readme.md",
     "notes/attachments",
-    "assets/images",
-    "notes"
+    "assets/images"
   ]
 }
