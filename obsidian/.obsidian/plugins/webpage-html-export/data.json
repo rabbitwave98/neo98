@@ -161,15 +161,15 @@
     },
     "customHeadOptions": {
       "featureId": "custom-head",
-      "enabled": false,
+      "enabled": true,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
       "featurePlacement": {
         "selector": "head",
-        "type": "end"
+        "type": "before"
       },
-      "sourcePath": "",
+      "sourcePath": "hb.html",
       "includePath": "site-lib/html/custom-head.html"
     },
     "documentOptions": {
@@ -217,15 +217,16 @@
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [
-      "obsidian-linter",
-      "pretty-properties",
-      "ace-gruvbox-light-hard",
       "ace-gruvbox-dark-hard",
       "ace-cloud9-night-low-color",
-      "ace-cloud9-day",
       "ace-cloud9-night",
+      "ace-gruvbox-light-hard",
+      "ace-cloud9-day",
       "emacsMode",
-      "css-editor"
+      "obsidian-linter",
+      "pretty-properties",
+      "css-editor",
+      "auto-card-link"
     ],
     "includeStyleCssIds": [
       "obsidian-linter",

@@ -149,32 +149,16 @@
             "id": "1aecbb003d5552bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "css-editor-view",
               "state": {
-                "file": "notes/2026-02-25.md",
-                "mode": "source",
-                "source": false
+                "file": "sitely.css"
               },
-              "icon": "lucide-file",
-              "title": "2026-02-25"
-            }
-          },
-          {
-            "id": "a4de8c2d66da3eba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/2026-02-27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-27"
+              "icon": "css-editor-logo",
+              "title": "sitely"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -329,8 +313,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a4de8c2d66da3eba",
+  "active": "1aecbb003d5552bb",
   "lastOpenFiles": [
+    "hb.html",
+    "sitely.css",
+    "notes/2026-02-25.md",
+    "notes/2026-02-27.md",
     "notes/2026-01-30-02.md",
     "notes/2026-01-30.md",
     "notes/2026-02-01.md",
@@ -339,8 +327,6 @@
     "notes/2026-02-05-02.md",
     "notes/2026-02-20.md",
     "notes/2026-02-23.md",
-    "notes/2026-02-25.md",
-    "notes/2026-02-27.md",
     "at/Pasted image 20260406180901.png",
     "at/Pasted image 20260406180853.png",
     "at/Pasted image 20260406180812.png",
@@ -363,7 +349,6 @@
     "untitled folder",
     "bak-index.html",
     "readme.md",
-    "notes/attachments",
-    "assets/images"
+    "notes/attachments"
   ]
 }
