@@ -46,9 +46,23 @@
               "icon": "css-editor-logo",
               "title": "sitely"
             }
+          },
+          {
+            "id": "c7ffeb0130c0f104",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/𝕥𝕙𝕚𝕤 𝕚𝕤 𝕨𝕙𝕖𝕣𝕖 𝕒 𝕥𝕚𝕥𝕝𝕖 𝕘𝕠𝕖𝕤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "𝕥𝕙𝕚𝕤 𝕚𝕤 𝕨𝕙𝕖𝕣𝕖 𝕒 𝕥𝕚𝕥𝕝𝕖 𝕘𝕠𝕖𝕤"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,8 +217,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5cd434c6af543ec5",
+  "active": "efff0915f8e98d03",
   "lastOpenFiles": [
+    "assets/covers",
+    "assets/covers/funkystar.png",
+    "notes/𝕥𝕙𝕚𝕤 𝕚𝕤 𝕨𝕙𝕖𝕣𝕖 𝕒 𝕥𝕚𝕥𝕝𝕖 𝕘𝕠𝕖𝕤.md",
+    "homeboy.html",
     "index.md",
     "assets/sidebar-right.md",
     "assets/sidebar-left.md",
@@ -212,16 +230,15 @@
     "assets/banners/moon.png",
     "assets/banners",
     "assets",
-    "homeboy.html",
-    "dailies/here's a daily page.md",
+    "notes/here's a daily page.md",
     "obsidian",
     "untitled folder",
     "bak-index.html",
     "assets/images/mewmew.png",
     "readme.md",
-    "dailies/attachments",
+    "notes/attachments",
     "assets/images",
-    "dailies",
+    "notes",
     "favico.ico"
   ]
 }
