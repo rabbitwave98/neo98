@@ -1,0 +1,15 @@
+{
+  "retroma-obsidian-theme@@theme-font-selection": "default",
+  "retroma-obsidian-theme@@theme-color-scheme-selection": "cs-triadic-colors",
+  "retroma-obsidian-theme@@theme-variant": "Groovy",
+  "retroma-obsidian-theme@@window-border-radius": "0px",
+  "retroma-obsidian-theme@@button-border-radius": "8px",
+  "retroma-obsidian-theme@@lightness-accent": 0.24,
+  "retroma-obsidian-theme@@interactive-accent@@light": "#D0B5F3",
+  "retroma-obsidian-theme@@interactive-accent@@dark": "#D0B5F3",
+  "retroma-obsidian-theme@@rotation-1": 360,
+  "retroma-obsidian-theme@@rotation-2": 329,
+  "retroma-obsidian-theme@@enable-alternative-checkboxes": false,
+  "retroma-obsidian-theme@@heading-divider": "heading-divider-show",
+  "retroma-obsidian-theme@@footnote-divider": "null"
+}

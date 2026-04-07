@@ -154,14 +154,14 @@
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
-      "allowResizing": true,
-      "allowCollapsing": true,
-      "rightDefaultWidth": "20em",
+      "allowResizing": false,
+      "allowCollapsing": false,
+      "rightDefaultWidth": "0em",
       "leftDefaultWidth": "20em"
     },
     "customHeadOptions": {
       "featureId": "custom-head",
-      "enabled": false,
+      "enabled": true,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -184,7 +184,7 @@
     },
     "rssOptions": {
       "featureId": "rss",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -214,7 +214,7 @@
     "fixLinks": true,
     "faviconPath": "favico.ico",
     "siteName": "rabbitwave98",
-    "iconEmojiStyle": "OpenMoji",
+    "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [
       "svelte-1xjllom",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/here's a daily page.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "here's a daily page"
+              "title": "index"
             }
           }
         ]
@@ -189,6 +189,7 @@
   "active": "0a24e730a17e32b7",
   "lastOpenFiles": [
     "index.md",
+    "homeboy.html",
     "dailies/here's a daily page.md",
     "obsidian",
     "untitled folder",
