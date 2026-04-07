@@ -88,7 +88,7 @@ Specificity: (0,1,0)
 }
 
 .sidebar .leaf-content {
-    background-color: #cdcbff !important
+    background-color: #cdcbff !important;
 }
 
 h1#index_0 {
@@ -130,4 +130,4 @@ h1, h2, h3, h4, h5, h6, a, b {
 
 .sidebar-topbar {
     display: none !important;
-}
+} 
