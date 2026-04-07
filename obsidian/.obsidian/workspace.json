@@ -217,11 +217,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "efff0915f8e98d03",
+  "active": "c7ffeb0130c0f104",
   "lastOpenFiles": [
+    "notes/here's a daily page.md",
+    "notes/𝕥𝕙𝕚𝕤 𝕚𝕤 𝕨𝕙𝕖𝕣𝕖 𝕒 𝕥𝕚𝕥𝕝𝕖 𝕘𝕠𝕖𝕤.md",
     "assets/covers",
     "assets/covers/funkystar.png",
-    "notes/𝕥𝕙𝕚𝕤 𝕚𝕤 𝕨𝕙𝕖𝕣𝕖 𝕒 𝕥𝕚𝕥𝕝𝕖 𝕘𝕠𝕖𝕤.md",
     "homeboy.html",
     "index.md",
     "assets/sidebar-right.md",
@@ -230,7 +231,6 @@
     "assets/banners/moon.png",
     "assets/banners",
     "assets",
-    "notes/here's a daily page.md",
     "obsidian",
     "untitled folder",
     "bak-index.html",
@@ -238,7 +238,6 @@
     "readme.md",
     "notes/attachments",
     "assets/images",
-    "notes",
-    "favico.ico"
+    "notes"
   ]
 }
