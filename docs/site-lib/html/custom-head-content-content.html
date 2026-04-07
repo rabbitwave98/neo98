@@ -3,5 +3,34 @@
 <head>
 <link rel="stylesheet" href="sitely.css">
 </head>
-    <div>All day everyday I be CTRL+R'ing.</div>
+    <style type="text/css">
+#hb-root {
+	position: relative;
+}
+
+#hb-root::before {
+	content: "";
+	position: absolute;
+	inset: 0 auto auto 0;
+	width: 100%;
+	height: 150px;
+	background: url("https://rabbitwave98.github.io/neo98/assets/banners/moon.png") center / cover no-repeat;
+	pointer-events: none;
+	z-index: -1;
+
+	-webkit-mask-image: linear-gradient(
+		to bottom,
+		black 0%,
+		black 70%,
+		transparent 100%
+	);
+	mask-image: linear-gradient(
+		to bottom,
+		black 0%,
+		black 70%,
+		transparent 100%
+	);
+}   
+    </style>
+    <div class="hb-root">All day everyday I be CTRL+R'ing.</div>
 </html>
