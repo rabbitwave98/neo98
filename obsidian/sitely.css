@@ -74,3 +74,6 @@ Specificity: (0,1,0)
     border-radius: var(--radius-s);
 }
 
+body #center-content>.obsidian-document>.markdown-preview-sizer {
+    padding-bottom: 20vh;
+}
