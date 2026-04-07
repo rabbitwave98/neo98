@@ -48,23 +48,6 @@
             }
           },
           {
-            "id": "413446c4628549c3",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
             "id": "1ebca75c30a1fdda",
             "type": "leaf",
             "state": {
@@ -149,29 +132,13 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "6cf400f8a950fb2b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "index.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of index"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,12 +150,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "webpage-html-export:Export as HTML": false
+      "webpage-html-export:Export as HTML": false,
+      "css-editor:Open CSS editor quick switcher": false,
+      "custom-theme-studio:Custom Theme Studio": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "0a24e730a17e32b7",
   "lastOpenFiles": [
     "index.md",
+    "assets/banners/moon.png",
+    "assets/banners",
+    "assets",
     "homeboy.html",
     "dailies/here's a daily page.md",
     "obsidian",
@@ -199,7 +172,6 @@
     "dailies/attachments",
     "images",
     "dailies",
-    "favico.ico",
-    "404.html"
+    "favico.ico"
   ]
 }

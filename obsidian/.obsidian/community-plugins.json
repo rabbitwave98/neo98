@@ -3,5 +3,7 @@
   "webpage-html-export",
   "obsidian-style-settings",
   "templater-obsidian",
-  "obsidian-linter"
+  "obsidian-linter",
+  "pretty-properties",
+  "css-editor"
 ]
