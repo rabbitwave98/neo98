@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "/Users/bunny/Offline/webdev/neo98/Untitled/docs",
+    "exportPath": "C:\\webdev\\neo98\\neo98\\docs",
     "filesToExport": [
       "all"
     ],
