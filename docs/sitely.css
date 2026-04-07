@@ -85,9 +85,7 @@ Specificity: (0,1,0)
 #file-explorer {
     border-radius: 25px !important;
     background-color: var(--background-paper) !important;
-    box-shadow: inset 0px 0px 3px 0px oklch(from #000 l c h / 50%) !important;
     z-index: 0;
     border-style: dashed;
-    border-width: 5px;
-    border-color: #ae72ff;
 }
+
