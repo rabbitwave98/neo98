@@ -167,7 +167,7 @@
       "hideSettingsButton": false,
       "featurePlacement": {
         "selector": "head",
-        "type": "before"
+        "type": "start"
       },
       "sourcePath": "hb.html",
       "includePath": "site-lib/html/custom-head.html"
