@@ -156,12 +156,12 @@
       "hideSettingsButton": false,
       "allowResizing": false,
       "allowCollapsing": false,
-      "rightDefaultWidth": "0em",
+      "rightDefaultWidth": "20em",
       "leftDefaultWidth": "20em"
     },
     "customHeadOptions": {
       "featureId": "custom-head",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -218,13 +218,25 @@
     "exportRoot": "",
     "includePluginCss": [
       "obsidian-linter",
-      "pretty-properties"
+      "pretty-properties",
+      "ace-gruvbox-light-hard",
+      "ace-gruvbox-dark-hard",
+      "ace-cloud9-night-low-color",
+      "ace-cloud9-day",
+      "ace-cloud9-night",
+      "emacsMode",
+      "css-editor"
     ],
     "includeStyleCssIds": [
-      "svelte-1xjllom",
-      "svelte-1nad34y",
-      "svelte-m7tqwz",
-      "obsidian-linter"
+      "obsidian-linter",
+      "pretty-properties",
+      "ace-gruvbox-light-hard",
+      "ace-gruvbox-dark-hard",
+      "ace-cloud9-night-low-color",
+      "ace-cloud9-day",
+      "ace-cloud9-night",
+      "emacsMode",
+      "css-editor"
     ],
     "autoDisposeWebpages": true
   },
