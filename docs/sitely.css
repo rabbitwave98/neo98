@@ -98,3 +98,13 @@ h1#index_0 {
 #main {
     margin-top: -200px !important;
 }
+
+.obsidian-document.markdown-preview-view.markdown-rendered.node-insert-event.is-readable-line-width.show-indentation-guide.show-properties {
+    background-color: #e0e7ff;
+    padding: 15px;
+    height: auto;
+    border-radius: 15px !important;
+    border-width: 10px;
+    border-style: double;
+    border-color: #cdcbff;
+}
