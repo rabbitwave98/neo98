@@ -75,14 +75,6 @@ Specificity: (0,1,0)
 }
 
 
-body #center-content>.obsidian-document>.markdown-preview-sizer {
-    padding-bottom: 10vh;
-}
-
 #center-content .obsidian-document .markdown-preview-sizer {
-        padding-bottom: 10vh;
+    padding-bottom: 0px !important;
 }
-
-/* .markdown-preview-sizer {
-    padding-bottom: 20vh;
-} */
