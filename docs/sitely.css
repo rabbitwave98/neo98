@@ -41,6 +41,8 @@ Specificity: (0,1,0)
 #left-sidebar .sidebar-topbar {
     border-top-style: groove;
     border-right-style: groove;
+    background-image: url(assets/tiling/eb.png) !important;
+    background-blend-mode: lighten !important;
 }
 
 .sidebar #left-sidebar-content, .sidebar #right-sidebar-content {
@@ -91,4 +93,8 @@ h1#index_0 {
     color: #726fd1 !important;
     font-family: math;
     font-style: italic;
+}
+
+#main {
+    margin-top: -200px !important;
 }
