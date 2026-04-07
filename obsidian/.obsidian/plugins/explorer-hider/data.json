@@ -1,7 +1,7 @@
 {
   "useSnippets": true,
   "compatSpf": false,
-  "showAll": false,
+  "showAll": true,
   "snippets": [
     {
       "path": "assets",
