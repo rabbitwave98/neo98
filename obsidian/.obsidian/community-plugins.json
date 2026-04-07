@@ -1,10 +1,11 @@
 [
-  "obsidian-html-plugin",
   "webpage-html-export",
   "obsidian-style-settings",
   "templater-obsidian",
   "obsidian-linter",
   "pretty-properties",
   "css-editor",
-  "auto-card-link"
+  "auto-card-link",
+  "obsidian-icon-folder",
+  "explorer-hider"
 ]

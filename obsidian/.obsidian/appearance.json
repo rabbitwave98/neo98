@@ -1,6 +1,7 @@
 {
   "cssTheme": "Retroma",
   "enabledCssSnippets": [
-    "sitely"
+    "sitely",
+    "generated.explorer-hider"
   ]
 }

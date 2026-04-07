@@ -173,7 +173,8 @@
       "webpage-html-export:Export as HTML": false,
       "css-editor:Open CSS editor quick switcher": false,
       "custom-theme-studio:Custom Theme Studio": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "explorer-hider:Disable hiding": false
     }
   },
   "active": "0a24e730a17e32b7",
