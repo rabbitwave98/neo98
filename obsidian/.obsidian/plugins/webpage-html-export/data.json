@@ -78,7 +78,7 @@
         "selector": "#left-sidebar-content",
         "type": "start"
       },
-      "showCustomIcons": false,
+      "showCustomIcons": true,
       "showDefaultFolderIcons": false,
       "showDefaultFileIcons": false,
       "defaultFolderIcon": "lucide//folder",
@@ -101,7 +101,7 @@
     },
     "outlineOptions": {
       "featureId": "outline",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -225,8 +225,9 @@
       "emacsMode",
       "obsidian-linter",
       "pretty-properties",
-      "css-editor",
-      "auto-card-link"
+      "auto-card-link",
+      "explorer-hider",
+      "css-editor"
     ],
     "includeStyleCssIds": [
       "obsidian-linter",
