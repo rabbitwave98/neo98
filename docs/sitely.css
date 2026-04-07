@@ -107,4 +107,17 @@ h1#index_0 {
     border-width: 10px;
     border-style: double;
     border-color: #cdcbff;
+    height: 780px !important;
+}
+
+#right-sidebar {
+    display: none !important;
+}
+
+#left-sidebar-content {
+    height: 780px !important;
+}
+
+h1, h2, h3, h4, h5, h6, a, b {
+    color: #6165dd !important;
 }
