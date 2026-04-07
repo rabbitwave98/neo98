@@ -17,8 +17,8 @@ button.clickable-icon.nav-action-button.tree-collapse-all {
 .tree-container .feature-title {
     font-size: inherit !important;
     color: var(--text-normal) !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #center-content .backlink-pane, #file-explorer, .bases-view, .markdown-source-view .backlink-pane, .search-result-container.mod-global-search, .tag-container
@@ -41,8 +41,6 @@ Specificity: (0,1,0)
 #left-sidebar .sidebar-topbar {
     border-top-style: groove;
     border-right-style: groove;
-    background-image: url(assets/tiling/eb.png) !important;
-    background-blend-mode: lighten !important;
 }
 
 .sidebar #left-sidebar-content, .sidebar #right-sidebar-content {
@@ -77,47 +75,5 @@ Specificity: (0,1,0)
 }
 
 .markdown-preview-sizer {
-    padding-bottom: 10vh !important;
-}
-
-#center-content .obsidian-document {
-    width: 90% !important;
-    margin-top: 25px !important;
-}
-
-.sidebar .leaf-content {
-    background-color: #cdcbff !important
-}
-
-h1#index_0 {
-    color: #726fd1 !important;
-    font-family: math;
-    font-style: italic;
-}
-
-#main {
-    margin-top: -200px !important;
-}
-
-.obsidian-document.markdown-preview-view.markdown-rendered.node-insert-event.is-readable-line-width.show-indentation-guide.show-properties {
-    background-color: #e0e7ff;
-    padding: 15px;
-    height: auto;
-    border-radius: 15px !important;
-    border-width: 10px;
-    border-style: double;
-    border-color: #cdcbff;
-    height: 780px !important;
-}
-
-#right-sidebar {
-    display: none !important;
-}
-
-#left-sidebar-content {
-    height: 780px !important;
-}
-
-h1, h2, h3, h4, h5, h6, a, b {
-    color: #6165dd !important;
+    padding-bottom: 20vh;
 }
