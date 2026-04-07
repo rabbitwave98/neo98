@@ -11,14 +11,12 @@
             "id": "0a24e730a17e32b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/tiling/lavchk.gif"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "lavchk"
             }
           }
         ]
@@ -178,6 +176,7 @@
   },
   "active": "0a24e730a17e32b7",
   "lastOpenFiles": [
+    "index.md",
     "assets/tiling/lavchk.gif",
     "assets/tiling/Unconfirmed 770147.crdownload",
     "assets/tiling",
@@ -208,11 +207,9 @@
     "at/Pasted image 20260406195443.png",
     "notes/2026-02-25.md",
     "at/Pasted image 20260406195406.png",
-    "index.md",
     "hb.html",
     "sitely.css",
     "notes/2026-01-30-02.md",
-    "at/Pasted image 20260406180901.png",
     "at",
     "assets/covers",
     "homeboy.html",
