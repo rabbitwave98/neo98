@@ -41,8 +41,6 @@ Specificity: (0,1,0)
 #left-sidebar .sidebar-topbar {
     border-top-style: groove;
     border-right-style: groove;
-    background-image: url(assets/tiling/eb2.png) !important;
-    background-blend-mode: lighten !important;
 }
 
 .sidebar #left-sidebar-content, .sidebar #right-sidebar-content {
