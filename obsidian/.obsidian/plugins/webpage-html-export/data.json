@@ -76,7 +76,7 @@
       "hideSettingsButton": false,
       "featurePlacement": {
         "selector": "#left-sidebar-content",
-        "type": "start"
+        "type": "before"
       },
       "showCustomIcons": true,
       "showDefaultFolderIcons": false,
