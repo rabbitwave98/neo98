@@ -149,12 +149,14 @@
             "id": "1aecbb003d5552bb",
             "type": "leaf",
             "state": {
-              "type": "css-editor-view",
+              "type": "markdown",
               "state": {
-                "file": "sitely.css"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "css-editor-logo",
-              "title": "sitely"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
