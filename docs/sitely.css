@@ -17,8 +17,8 @@ button.clickable-icon.nav-action-button.tree-collapse-all {
 .tree-container .feature-title {
     font-size: inherit !important;
     color: var(--text-normal) !important;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 #center-content .backlink-pane, #file-explorer, .bases-view, .markdown-source-view .backlink-pane, .search-result-container.mod-global-search, .tag-container
@@ -75,9 +75,20 @@ Specificity: (0,1,0)
 }
 
 .markdown-preview-sizer {
-    padding-bottom: 20vh;
+    padding-bottom: 10vh !important;
 }
 
 #center-content .obsidian-document {
     width: 90% !important;
+    margin-top: 25px !important;
+}
+
+.sidebar .leaf-content {
+    background-color: #cdcbff !important
+}
+
+h1#index_0 {
+    color: #726fd1 !important;
+    font-family: math;
+    font-style: italic;
 }
