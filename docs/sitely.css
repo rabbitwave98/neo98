@@ -77,3 +77,7 @@ Specificity: (0,1,0)
 .markdown-preview-sizer {
     padding-bottom: 20vh;
 }
+
+#center-content .obsidian-document {
+    width: 90% !important;
+}
