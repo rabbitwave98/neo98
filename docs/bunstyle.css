@@ -81,9 +81,9 @@ Specificity: (0,1,0)
 }
 
 #center-content .obsidian-document {
-    width: 90% !important;
+    width: 70% !important;
     margin-top: 100px !important;
-    height: 700px !important;
+    height: 70% !important;
 }
 
 .sidebar .leaf-content {
@@ -115,11 +115,18 @@ h1#index_0 {
     display: none !important;
 }
 
+.sidebar #left-sidebar-content, .sidebar #right-sidebar-content {
+    height: 70% !important;
+}
+
 #left-sidebar-content {
-    height: 700px !important;
     margin-top: 100px !important;
 }
 
 h1, h2, h3, h4, h5, h6, a, b {
     color: #6165dd !important;
+}
+
+.sidebar-topbar {
+    display: none !important;
 }
