@@ -235,17 +235,14 @@
     "iconEmojiStyle": "Native",
     "exportRoot": "",
     "includePluginCss": [
-      "ace-gruvbox-dark-hard",
-      "ace-cloud9-night-low-color",
-      "ace-cloud9-night",
-      "ace-gruvbox-light-hard",
-      "ace-cloud9-day",
-      "emacsMode",
       "obsidian-linter",
       "pretty-properties",
+      "css-editor",
       "auto-card-link",
       "explorer-hider",
-      "css-editor"
+      "dataview",
+      "data-cards",
+      "style-text"
     ],
     "includeStyleCssIds": [
       "obsidian-linter",

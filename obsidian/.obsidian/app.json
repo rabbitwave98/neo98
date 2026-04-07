@@ -3,5 +3,6 @@
   "promptDelete": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
-  "attachmentFolderPath": "at"
+  "attachmentFolderPath": "at",
+  "showInlineTitle": true
 }

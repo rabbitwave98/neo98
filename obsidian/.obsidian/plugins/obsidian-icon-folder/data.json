@@ -32,5 +32,6 @@
     "useInternalPlugins": false
   },
   "notes": "LiNotebookText",
-  "index.md": "LiStars"
+  "index.md": "LiStars",
+  "notes/2026-01-30.md": "LiNotebookText"
 }

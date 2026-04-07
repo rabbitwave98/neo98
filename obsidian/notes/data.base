@@ -1,8 +1,21 @@
+formulas:
+  formula: ""
 views:
-  - type: cards
+  - type: table
     name: Table
     filters:
       and:
         - file.folder == "notes"
         - file.ext != "base"
+    order:
+      - file.name
+      - date
+      - tags
+      - entrytitle
+      - folder
+    sort:
+      - property: date
+        direction: ASC
+      - property: formula.formula
+        direction: DESC
     limit: 20

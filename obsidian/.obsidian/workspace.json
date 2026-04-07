@@ -112,20 +112,6 @@
             }
           },
           {
-            "id": "79e3220879b199be",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "index.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from index"
-            }
-          },
-          {
             "id": "6d1baf6264f1a6c5",
             "type": "leaf",
             "state": {
@@ -173,7 +159,8 @@
               "title": "Backlinks for index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -196,26 +183,26 @@
   },
   "active": "0a24e730a17e32b7",
   "lastOpenFiles": [
-    "notes/2026-03-10.md",
-    "notes/2026-03-11.md",
-    "notes/2026-03-03.md",
-    "notes/2026-03-04.md",
-    "notes/2026-03-06.md",
-    "notes/2026-02-27.md",
-    "notes/2026-02-27-02.md",
-    "notes/2026-02-28.md",
-    "notes/2026-03-03-02.md",
+    "notes/2026-02-01.md",
+    "notes/2026-02-01-02.md",
     "notes/2026-02-05.md",
     "notes/2026-02-05-02.md",
     "notes/2026-02-20.md",
     "notes/2026-02-23.md",
     "notes/2026-02-25.md",
-    "notes/2026-02-01.md",
-    "notes/2026-02-01-02.md",
+    "notes/2026-02-27.md",
+    "notes/2026-02-27-02.md",
+    "notes/2026-02-28.md",
+    "notes/2026-03-03-02.md",
+    "notes/2026-03-03.md",
+    "notes/2026-03-04.md",
+    "notes/2026-03-06.md",
     "notes/2026-01-30.md",
-    "notes/2026-01-30-02.md",
+    "notes/2026-03-11.md",
     "index.md",
+    "notes/2026-03-10.md",
     "notes/data.base",
+    "notes/2026-01-30-02.md",
     "assets/sidebar-left.md",
     "assets/sidebar-right.md",
     "assets/tiling/eb2.png",

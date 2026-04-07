@@ -1,7 +1,12 @@
 {
   "hiddenProperties": [],
   "propertyPillColors": {},
-  "propertyLongtextColors": {},
+  "propertyLongtextColors": {
+    "notes": {
+      "pillColor": "pink",
+      "textColor": "default"
+    }
+  },
   "tagColors": {},
   "enableBanner": true,
   "enableIcon": true,
