@@ -24,7 +24,7 @@ button.clickable-icon.nav-action-button.tree-collapse-all {
     margin-right: auto;
 }
 
-#center-content .backlink-pane, #file-explorer, .bases-view, .markdown-source-view .backlink-pane, .search-result-container.mod-global-search, .tag-container
+#center-content .backlink-pane, .bases-view, .markdown-source-view .backlink-pane, .search-result-container.mod-global-search, .tag-container
 Specificity: (0,1,0)
  {
     border-radius: 25px !important;
@@ -83,7 +83,11 @@ Specificity: (0,1,0)
 }
 
 #file-explorer {
-    padding: 0;
-    border-radius: 20px;
+    border-radius: 25px !important;
+    background-color: var(--background-paper) !important;
+    box-shadow: inset 0px 0px 3px 0px oklch(from #000 l c h / 50%) !important;
+    z-index: 0;
     border-style: dashed;
+    border-width: 5px;
+    border-color: #ae72ff;
 }
