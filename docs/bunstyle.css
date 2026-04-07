@@ -82,7 +82,8 @@ Specificity: (0,1,0)
 
 #center-content .obsidian-document {
     width: 90% !important;
-    margin-top: 25px !important;
+    margin-top: 100px !important;
+    height: 700px !important;
 }
 
 .sidebar .leaf-content {
@@ -115,7 +116,8 @@ h1#index_0 {
 }
 
 #left-sidebar-content {
-    height: 780px !important;
+    height: 700px !important;
+    margin-top: 100px !important;
 }
 
 h1, h2, h3, h4, h5, h6, a, b {
